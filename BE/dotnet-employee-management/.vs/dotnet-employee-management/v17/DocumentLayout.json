@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|d:\\108_2055010189_phantrungngh\u0129a\\108_2055010189_phantrungngh\u0129a\\be\\dotnet-employee-management\\dotnet-employee-management\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|solutionrelative:dotnet-employee-management\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|d:\\108_2055010189_phantrungngh\u0129a\\108_2055010189_phantrungngh\u0129a\\be\\dotnet-employee-management\\dotnet-employee-management\\authorization\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|solutionrelative:dotnet-employee-management\\authorization\\authorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|d:\\108_2055010189_phantrungngh\u0129a\\108_2055010189_phantrungngh\u0129a\\be\\dotnet-employee-management\\dotnet-employee-management\\authorization\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|solutionrelative:dotnet-employee-management\\authorization\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|d:\\108_2055010189_phantrungngh\u0129a\\108_2055010189_phantrungngh\u0129a\\be\\dotnet-employee-management\\dotnet-employee-management\\controllers\\admissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|solutionrelative:dotnet-employee-management\\controllers\\admissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|d:\\108_2055010189_phantrungngh\u0129a\\108_2055010189_phantrungngh\u0129a\\be\\dotnet-employee-management\\dotnet-employee-management\\service\\admissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|solutionrelative:dotnet-employee-management\\service\\admissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|d:\\108_2055010189_phantrungngh\u0129a\\108_2055010189_phantrungngh\u0129a\\be\\dotnet-employee-management\\dotnet-employee-management\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|solutionrelative:dotnet-employee-management\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|d:\\108_2055010189_phantrungngh\u0129a\\108_2055010189_phantrungngh\u0129a\\be\\dotnet-employee-management\\dotnet-employee-management\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|solutionrelative:dotnet-employee-management\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|d:\\108_2055010189_phantrungngh\u0129a\\108_2055010189_phantrungngh\u0129a\\be\\dotnet-employee-management\\dotnet-employee-management\\repository\\admissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|solutionrelative:dotnet-employee-management\\repository\\admissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|d:\\108_2055010189_phantrungngh\u0129a\\108_2055010189_phantrungngh\u0129a\\be\\dotnet-employee-management\\dotnet-employee-management\\service\\iadmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|solutionrelative:dotnet-employee-management\\service\\iadmissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|d:\\108_2055010189_phantrungngh\u0129a\\108_2055010189_phantrungngh\u0129a\\be\\dotnet-employee-management\\dotnet-employee-management\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|solutionrelative:dotnet-employee-management\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|d:\\108_2055010189_phantrungngh\u0129a\\108_2055010189_phantrungngh\u0129a\\be\\dotnet-employee-management\\dotnet-employee-management\\models\\admissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|solutionrelative:dotnet-employee-management\\models\\admissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|d:\\108_2055010189_phantrungngh\u0129a\\108_2055010189_phantrungngh\u0129a\\be\\dotnet-employee-management\\dotnet-employee-management\\dto\\request\\employeecreationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89411A1C-8873-4287-A616-BE9FC91852D1}|dotnet-employee-management\\dotnet-employee-management.csproj|solutionrelative:dotnet-employee-management\\dto\\request\\employeecreationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtUtils.cs",
+              "DocumentMoniker": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Authorization\\JwtUtils.cs",
+              "RelativeDocumentMoniker": "dotnet-employee-management\\Authorization\\JwtUtils.cs",
+              "ToolTip": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Authorization\\JwtUtils.cs",
+              "RelativeToolTip": "dotnet-employee-management\\Authorization\\JwtUtils.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAjwDQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:30:37.168Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdmissionController.cs",
+              "DocumentMoniker": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Controllers\\AdmissionController.cs",
+              "RelativeDocumentMoniker": "dotnet-employee-management\\Controllers\\AdmissionController.cs",
+              "ToolTip": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Controllers\\AdmissionController.cs",
+              "RelativeToolTip": "dotnet-employee-management\\Controllers\\AdmissionController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAD4vzMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:40:46.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdmissionService.cs",
+              "DocumentMoniker": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Service\\AdmissionService.cs",
+              "RelativeDocumentMoniker": "dotnet-employee-management\\Service\\AdmissionService.cs",
+              "ToolTip": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Service\\AdmissionService.cs",
+              "RelativeToolTip": "dotnet-employee-management\\Service\\AdmissionService.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAMwOkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:53:13.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "dotnet-employee-management\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "dotnet-employee-management\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAD4vycAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T05:09:14.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizeAttribute.cs",
+              "DocumentMoniker": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Authorization\\AuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "dotnet-employee-management\\Authorization\\AuthorizeAttribute.cs",
+              "ToolTip": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Authorization\\AuthorizeAttribute.cs",
+              "RelativeToolTip": "dotnet-employee-management\\Authorization\\AuthorizeAttribute.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:37:04.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "dotnet-employee-management\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "dotnet-employee-management\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAMwCgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:28:27.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "dotnet-employee-management\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "dotnet-employee-management\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:38:21.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdmissionRepository.cs",
+              "DocumentMoniker": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Repository\\AdmissionRepository.cs",
+              "RelativeDocumentMoniker": "dotnet-employee-management\\Repository\\AdmissionRepository.cs",
+              "ToolTip": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Repository\\AdmissionRepository.cs",
+              "RelativeToolTip": "dotnet-employee-management\\Repository\\AdmissionRepository.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAvwI0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:22:17.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "dotnet-employee-management\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Controllers\\UserController.cs",
+              "RelativeToolTip": "dotnet-employee-management\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:57:03.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAdmissionService.cs",
+              "DocumentMoniker": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Service\\IAdmissionService.cs",
+              "RelativeDocumentMoniker": "dotnet-employee-management\\Service\\IAdmissionService.cs",
+              "ToolTip": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Service\\IAdmissionService.cs",
+              "RelativeToolTip": "dotnet-employee-management\\Service\\IAdmissionService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T07:27:32.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdmissionDto.cs",
+              "DocumentMoniker": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Models\\AdmissionDto.cs",
+              "RelativeDocumentMoniker": "dotnet-employee-management\\Models\\AdmissionDto.cs",
+              "ToolTip": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Models\\AdmissionDto.cs",
+              "RelativeToolTip": "dotnet-employee-management\\Models\\AdmissionDto.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAA9wE8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:49:54.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeCreationRequest.cs",
+              "DocumentMoniker": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Dto\\Request\\EmployeeCreationRequest.cs",
+              "RelativeDocumentMoniker": "dotnet-employee-management\\Dto\\Request\\EmployeeCreationRequest.cs",
+              "ToolTip": "D:\\108_2055010189_PhanTrungNgh\u0129a\\108_2055010189_PhanTrungNgh\u0129a\\BE\\dotnet-employee-management\\dotnet-employee-management\\Dto\\Request\\EmployeeCreationRequest.cs",
+              "RelativeToolTip": "dotnet-employee-management\\Dto\\Request\\EmployeeCreationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:04:08.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

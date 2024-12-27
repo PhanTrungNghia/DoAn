@@ -1,0 +1,952 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "dotnet-employee-management",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Admission/upload": {
+      "post": {
+        "tags": [
+          "Admission"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "file": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "file": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Admission/upload-confirmation": {
+      "post": {
+        "tags": [
+          "Admission"
+        ],
+        "requestBody": {
+          "content": {
+            "multipart/form-data": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "file": {
+                    "type": "string",
+                    "format": "binary"
+                  }
+                }
+              },
+              "encoding": {
+                "file": {
+                  "style": "form"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Admission/get": {
+      "get": {
+        "tags": [
+          "Admission"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Admission/get/{id}": {
+      "get": {
+        "tags": [
+          "Admission"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Admission/add": {
+      "post": {
+        "tags": [
+          "Admission"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Admission"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Admission"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Admission"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Admission/update": {
+      "put": {
+        "tags": [
+          "Admission"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Admission"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Admission"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Admission"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Admission/delete/{id}": {
+      "post": {
+        "tags": [
+          "Admission"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Admission/confirm-admission": {
+      "post": {
+        "tags": [
+          "Admission"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Admission/unconfirm-admission": {
+      "post": {
+        "tags": [
+          "Admission"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "array",
+                "items": {
+                  "type": "integer",
+                  "format": "int32"
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Auth/login": {
+      "post": {
+        "tags": [
+          "Auth"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserLoginInfo"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserLoginInfo"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserLoginInfo"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Employee/get": {
+      "get": {
+        "tags": [
+          "Employee"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Employee/get/{id}": {
+      "get": {
+        "tags": [
+          "Employee"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Employee/add": {
+      "post": {
+        "tags": [
+          "Employee"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Employee/update": {
+      "put": {
+        "tags": [
+          "Employee"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Employee"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Employee/delete/{id}": {
+      "post": {
+        "tags": [
+          "Employee"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/User/get": {
+      "get": {
+        "tags": [
+          "User"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/User/get/{id}": {
+      "get": {
+        "tags": [
+          "User"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/User/add": {
+      "post": {
+        "tags": [
+          "User"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/User/update": {
+      "put": {
+        "tags": [
+          "User"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/User"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/User/delete/{id}": {
+      "post": {
+        "tags": [
+          "User"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Admission": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "stt": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "soBaoDanh": {
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "maHoSo": {
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "hoDem": {
+            "type": "string",
+            "nullable": true
+          },
+          "ten": {
+            "type": "string",
+            "nullable": true
+          },
+          "ngaySinh": {
+            "type": "string",
+            "nullable": true
+          },
+          "gioiTinh": {
+            "type": "string",
+            "nullable": true
+          },
+          "idNganh": {
+            "type": "string",
+            "nullable": true
+          },
+          "idNghe": {
+            "type": "string",
+            "nullable": true
+          },
+          "idLoaiSinhVien": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "khoi": {
+            "type": "string",
+            "nullable": true
+          },
+          "idPhanLoaiTS": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "diemXetTuyen": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "diemMon1": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "diemMon2": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "diemMon3": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "idKhuVuc": {
+            "type": "string",
+            "nullable": true
+          },
+          "xepLoaiHocTap": {
+            "type": "string",
+            "nullable": true
+          },
+          "idDoiTuong": {
+            "type": "string",
+            "nullable": true
+          },
+          "xepLoaiHanhKiem": {
+            "type": "string",
+            "nullable": true
+          },
+          "hktT_IDTinh": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "hktT_IDHuyen": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "hktT_PhuongXa": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "idTruongLop12": {
+            "type": "string",
+            "nullable": true
+          },
+          "namTotNghiep": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "soDienThoai": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "diaChiNhanGiayBao": {
+            "type": "string",
+            "nullable": true
+          },
+          "noiSinh": {
+            "type": "string",
+            "nullable": true
+          },
+          "idDanToc": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "soCMND": {
+            "type": "string",
+            "nullable": true
+          },
+          "diaChiThuongTru": {
+            "type": "string",
+            "nullable": true
+          },
+          "diaChiLienLac": {
+            "type": "string",
+            "nullable": true
+          },
+          "giayKhen": {
+            "type": "string",
+            "nullable": true
+          },
+          "khenThuongKyLuat": {
+            "type": "string",
+            "nullable": true
+          },
+          "nhapHoc": {
+            "type": "string",
+            "nullable": true
+          },
+          "diemTBCToanKhoa": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "diemKhuyenKhich": {
+            "type": "number",
+            "format": "double",
+            "nullable": true
+          },
+          "phuongThucTrungTuyen": {
+            "type": "string",
+            "nullable": true
+          },
+          "ngayCap": {
+            "type": "string",
+            "nullable": true
+          },
+          "noiCap": {
+            "type": "string",
+            "nullable": true
+          },
+          "tonGiao": {
+            "type": "string",
+            "nullable": true
+          },
+          "hoTenNguoiLienLac": {
+            "type": "string",
+            "nullable": true
+          },
+          "sdtLienHe": {
+            "type": "string",
+            "nullable": true
+          },
+          "diaChiLienHe": {
+            "type": "string",
+            "nullable": true
+          },
+          "emailLienHe": {
+            "type": "string",
+            "nullable": true
+          },
+          "quanHuyen": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "phuongXa": {
+            "type": "integer",
+            "format": "int32",
+            "nullable": true
+          },
+          "diaChiCuThe": {
+            "type": "string",
+            "nullable": true
+          },
+          "hoTenCha": {
+            "type": "string",
+            "nullable": true
+          },
+          "hoTenMe": {
+            "type": "string",
+            "nullable": true
+          },
+          "ngaySinhCha": {
+            "type": "string",
+            "nullable": true
+          },
+          "ngaySinhMe": {
+            "type": "string",
+            "nullable": true
+          },
+          "sdtCha": {
+            "type": "string",
+            "nullable": true
+          },
+          "sdtMe": {
+            "type": "string",
+            "nullable": true
+          },
+          "ngheNghiepCha": {
+            "type": "string",
+            "nullable": true
+          },
+          "ngheNghiepMe": {
+            "type": "string",
+            "nullable": true
+          },
+          "noiLamViecCha": {
+            "type": "string",
+            "nullable": true
+          },
+          "noiLamViecMe": {
+            "type": "string",
+            "nullable": true
+          },
+          "noiThuongTruCha": {
+            "type": "string",
+            "nullable": true
+          },
+          "noiThuongTruMe": {
+            "type": "string",
+            "nullable": true
+          },
+          "tonGiaoCha": {
+            "type": "string",
+            "nullable": true
+          },
+          "tonGiaoMe": {
+            "type": "string",
+            "nullable": true
+          },
+          "danTocCha": {
+            "type": "string",
+            "nullable": true
+          },
+          "danTocMe": {
+            "type": "string",
+            "nullable": true
+          },
+          "anhChiEm": {
+            "type": "string",
+            "nullable": true
+          },
+          "soBHYT": {
+            "type": "string",
+            "nullable": true
+          },
+          "ngayVaoDoan": {
+            "type": "string",
+            "nullable": true
+          },
+          "ngayVaoDang": {
+            "type": "string",
+            "nullable": true
+          },
+          "isConfirm": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "isPaid": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "isProfile": {
+            "type": "boolean",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Employee": {
+        "required": [
+          "isActive"
+        ],
+        "type": "object",
+        "properties": {
+          "idEmployee": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "age": {
+            "maxLength": 100,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "isActive": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "User": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "maxLength": 50,
+            "minLength": 0,
+            "type": "string",
+            "nullable": true
+          },
+          "firstName": {
+            "type": "string",
+            "nullable": true
+          },
+          "lastName": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "role": {
+            "type": "string",
+            "nullable": true
+          },
+          "token": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "UserLoginInfo": {
+        "type": "object",
+        "properties": {
+          "username": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

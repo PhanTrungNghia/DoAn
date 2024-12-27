@@ -1,0 +1,146 @@
+:root {
+    --height-header: 50px;
+    --width-sidebar: 260px;
+    --bg-body: #E9ECF3;
+    --bg-primary: #FFFFFF;
+    --bg-menu: #FFFFFF;
+    --bg-menu-active: #e6f4ff;
+    --color-primary: #1677FF;
+    --text-color: #000;
+    --bg-2: #EEEEF1;
+    --font-size: 14px;
+    --font-size-title: 15px;
+    --border-color: #dee2e6;
+    --bg-table-header: #f2f2f2;
+    --bg-table-row-even: #f2f2f2;
+    --border-table-cell: #dee2e6;
+}
+
+:where(.ant-select-selection-search-input) {
+    font-weight: bold;
+    margin-left: 100px !important;
+}
+
+:root {
+    --height-header: 50px;
+    --width-sidebar: 260px;
+    --bg-body: #E9ECF3;
+    --bg-primary: #FFFFFF;
+    --bg-menu: #FFFFFF;
+    --bg-menu-active: #e6f4ff;
+    --color-primary: #1677FF;
+    --text-color: #000;
+    --bg-2: #EEEEF1;
+    --font-size: 14px;
+    --font-size-title: 15px;
+    --border-color: #dee2e6;
+    --bg-table-header: #f2f2f2;
+    --bg-table-row-even: #f2f2f2;
+    --border-table-cell: #dee2e6;
+}
+
+:where(.ant-breadcrumb) {
+    /* box-sizing: border-box; */
+    margin: 0;
+    padding: 0;
+    color: rgba(0, 0, 0, 0.45);
+    font-size: 14px;
+    line-height: 1.5714285714285714;
+    list-style: none;
+    font-family: Roboto;
+}
+
+:where(.ant-breadcrumb-link) a {
+    height: 22px;
+    width: 70.99px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.45);
+    transition: color 0.2s;
+    padding: 0 4px;
+    border-radius: 2px;
+    display: inline-block;
+    margin-inline: -4px;
+}
+
+:where(.ant-breadcrumb-link) a:hover {
+    color: rgba(0, 0, 0, 0.75);
+    /* Màu ví dụ khi hover */
+    background-color: rgba(215, 219, 224, 0.793);
+}
+
+:where(.ant-breadcrumb-separator) {
+    margin-inline: 8px;
+    color: rgba(0, 0, 0, 0.45);
+}
+
+.page-action button {
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+:where([class^="ant-btn"]), :where([class*=" ant-btn"]) {
+    font-family: Roboto !important;
+    font-size: 14px !important;
+    box-sizing: border-box;
+}
+
+:where([class^="ant-spin"]), :where([class*=" ant-spin"]) {
+    font-family: Roboto;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+:where(.ant-btn) {
+    font-size: 14px;
+    height: 32px;
+    padding: 4px 15px;
+    border-radius: 2px;
+    /* background-color: transparent;  */
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: all 0.2s cubic-bezier(0.65, 0.05, 0.36, 1);
+}
+
+:where(.ant-btn-primary) {
+    color: #fff;
+    background-color: #1677ff;
+    box-shadow: 0 2px 0 rgba(5, 145, 255, 0.1);
+}
+
+:where(.ant-btn.ant-btn-circle) {
+    min-width: 32px;
+    padding-inline-start: 0;
+    padding-inline-end: 0;
+    border-radius: 50% !important;
+}
+
+:where(.ant-btn.ant-btn-icon-only) {
+    width: 32px;
+    padding-inline-start: 0;
+    padding-inline-end: 0;
+}
+
+:where(.ant-spin-nested-loading) {
+    position: relative;
+}
+
+:where(.ant-spin-nested-loading) .ant-spin-container {
+    position: relative;
+    transition: opacity 2s linear;
+}
+
+
+:where([class^="ant"]), :where([class*=" ant"]){
+    font-family: Roboto !important;
+    font-size: 14px !important;
+    box-sizing: border-box;
+}
+
+
+:where(.css-dev-only-do-not-override-1wwf28x).ant-descriptions .ant-descriptions-title {
+    font-family: Roboto !important;
+    font-size: 20px !important;
+
+}

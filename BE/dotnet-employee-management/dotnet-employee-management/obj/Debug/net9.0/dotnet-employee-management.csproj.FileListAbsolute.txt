@@ -1,0 +1,525 @@
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\appsettings.Development.json
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\appsettings.json
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.staticwebassets.endpoints.json
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.exe
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.deps.json
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.runtimeconfig.json
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.pdb
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Azure.Core.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Azure.Identity.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Dapper.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Humanizer.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Oracle.EntityFrameworkCore.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Oracle.ManagedDataAccess.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.ClientModel.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.CodeDom.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Diagnostics.PerformanceCounter.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.DirectoryServices.Protocols.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.csproj.AssemblyReference.cache
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.AssemblyInfoInputs.cache
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.AssemblyInfo.cs
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.csproj.CoreCompileInputs.cache
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.MvcApplicationPartsAssemblyInfo.cs
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.MvcApplicationPartsAssemblyInfo.cache
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.sourcelink.json
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\scopedcss\bundle\dotnet-employee-management.styles.css
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.build.json
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.development.json
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.dotnet-employee-management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.dotnet-employee-management.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.build.dotnet-employee-management.props
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.dotnet-employee-management.props
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.dotnet-employee-management.props
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-e.C6DE53EC.Up2Date
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\refint\dotnet-employee-management.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.pdb
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.genruntimeconfig.cache
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\ref\dotnet-employee-management.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Dapper.Oracle.dll
+D:\Algo Intern Project\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\appsettings.Development.json
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\appsettings.json
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.staticwebassets.endpoints.json
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.exe
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.deps.json
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.runtimeconfig.json
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.pdb
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Azure.Core.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Azure.Identity.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Dapper.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Dapper.Oracle.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Humanizer.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.OpenApi.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Mono.TextTemplating.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Oracle.EntityFrameworkCore.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Oracle.ManagedDataAccess.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.ClientModel.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.CodeDom.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.Convention.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.Hosting.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.Runtime.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.TypedParts.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Diagnostics.PerformanceCounter.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.DirectoryServices.Protocols.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Memory.Data.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Runtime.Caching.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.csproj.AssemblyReference.cache
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.AssemblyInfoInputs.cache
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.AssemblyInfo.cs
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.csproj.CoreCompileInputs.cache
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.MvcApplicationPartsAssemblyInfo.cs
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.MvcApplicationPartsAssemblyInfo.cache
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\scopedcss\bundle\dotnet-employee-management.styles.css
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.build.json
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.development.json
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.dotnet-employee-management.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.dotnet-employee-management.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.build.dotnet-employee-management.props
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.dotnet-employee-management.props
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.dotnet-employee-management.props
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.pack.json
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-e.C6DE53EC.Up2Date
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\refint\dotnet-employee-management.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.pdb
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.genruntimeconfig.cache
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\ref\dotnet-employee-management.dll
+E:\Algo-Intern-Project-master\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\appsettings.Development.json
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\appsettings.json
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.staticwebassets.endpoints.json
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.exe
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.deps.json
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.runtimeconfig.json
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\dotnet-employee-management.pdb
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Azure.Core.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Azure.Identity.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Dapper.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Dapper.Oracle.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Humanizer.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Oracle.EntityFrameworkCore.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Oracle.ManagedDataAccess.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.ClientModel.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.CodeDom.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Diagnostics.PerformanceCounter.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.DirectoryServices.Protocols.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Memory.Data.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\linux\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\osx\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.DirectoryServices.Protocols.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.csproj.AssemblyReference.cache
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.GeneratedMSBuildEditorConfig.editorconfig
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.AssemblyInfoInputs.cache
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.AssemblyInfo.cs
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.csproj.CoreCompileInputs.cache
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.MvcApplicationPartsAssemblyInfo.cs
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.MvcApplicationPartsAssemblyInfo.cache
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\scopedcss\bundle\dotnet-employee-management.styles.css
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.build.json
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.development.json
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.dotnet-employee-management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.dotnet-employee-management.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.build.dotnet-employee-management.props
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.dotnet-employee-management.props
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.dotnet-employee-management.props
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.pack.json
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-e.C6DE53EC.Up2Date
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\refint\dotnet-employee-management.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.pdb
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\dotnet-employee-management.genruntimeconfig.cache
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\ref\dotnet-employee-management.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Enums.NET.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ExtendedNumerics.BigDecimal.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\MathNet.Numerics.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\NPOI.Core.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\NPOI.OOXML.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\NPOI.OpenXml4Net.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\NPOI.OpenXmlFormats.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\ICSharpCode.SharpZipLib.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\SixLabors.Fonts.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\bin\Debug\net9.0\SixLabors.ImageSharp.dll
+D:\108_2055010189_PhanTrungNghĩa\108_2055010189_PhanTrungNghĩa\BE\dotnet-employee-management\dotnet-employee-management\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
